@@ -1,0 +1,51 @@
+idCarrera,Desc Carrera,idDepto
+CARR1,Ingeniero en electronica,D11
+CARR103,Ingeniero en sist diditales,D11
+CARR104,Ingeniero en Audio y Video,D11
+CARR106,Ingeniero en Microelectronica,D11
+CARR107,Ingeniero en Microondas,D11
+CARR108,Ingeniero en Comunicaciones,D11
+CARR110,Ingeniero Electrico,D08
+CARR112,Ingeniero lineas de transmisión,D08
+CARR113,Ingeniero en Potencia,D08
+CARR114,Ingeniero en distribución electrica,D08
+CARR2,Ingeniero en iluminación,D08
+CARR41,Ingeniero Industrial,D09
+CARR42,Ingeniero en mecanica industrial,D09
+CARR43,Ingeniero Elactromecanico,D09
+CARR45,Ingeniero en Obras,D09
+CARR46,Ingeniero en fluidos,D09
+CARR47,Ingeniero Físico,D06
+CARR53,Ingeniero Mecanico,D06
+CARR54,Ingeniero Quimico,D06
+CARR55,Ingeniero Ambiental,D06
+CARR58,Ingeniero Nuclear,D06
+CARR60,Ingeniero en explosivos,D10
+CARR61,Ingeniero Zapador,D10
+CARR62,Ingeniero en armamento,D10
+CARR63,Ingeniero en tacticas espaciales,D10
+CARR64,Ingeniero en fuerzas especiales,D10
+CARR65,Ingeniero en aeronautica,D03
+CARR66,Ingeniero aeroespacial,D03
+CARR71,Ingeniero en control aereo,D03
+CARR72,Ingeniero mecanico de aviación,D03
+CARR73,Ingeniero en radiocomunicación aerea,D03
+CARR74,Ingeniero en navegación aerea,D03
+CARR75,Ingeniero computación,D04
+CARR76,Ingeniero Programador,D04
+CARR77,Ingeniero en sistemas de información,D04
+CARR78,Ingeniero en sistemas computacionales,D04
+CARR79,Ingeniero en Administración de datos,D04
+CARR80,Ingeniero ene inteligencia de negocios,D05
+CARR81,Ingeniero en computo estadístico,D05
+CARR83,Ingeniero en inteligencia artificial,D05
+CARR84,Ingeniero en computo financiero,D05
+CARR85,Licenciado en administración,D01
+CARR86,Licenciado en mercadotecnia,D01
+CARR87,Licenciado en Psicologia Org,D01
+CARR88,Licenciado en Finanzas,D01
+CARR89,Licenciado en Planeación estratégica,D01
+CARR96,Licenciado en Relaciones Internacionales,D02
+CARR97,Licenciado en Educación,D02
+CARR98,Licenciado en Educación especial,D02
+CARR99,Licenciado en lenguas,D02

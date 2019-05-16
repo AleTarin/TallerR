@@ -1,0 +1,31 @@
+id_Empleado,Nombre,Apellido,Genero,NombreDepartamento,NombreUnidad,FormaContrato,Puesto,CategoriaPuesto,Sueldo,Incremento
+E0085,Brenda Selene Sarai,Ruíz,Femenino,Recursos Humanos,Servicios Alimentarios,Planta,Auxiliar,Administrativo,3600,0.02
+E0018,Javier Antonio,Garrido,Masculino,Intendencia,Limpieza,Planta,Supervisor,Directivo,10000,0.04
+E0051,Olivia Olimpia,Ibarra,Femenino,Intendencia,Intendencia (ofna),Planta,Director,Directivo,15000,0.1
+E0191,Jesús Edgardo,Ramírez,Masculino,Intendencia,Logistica,Planta,Auxiliar,Administrativo,3600,0.02
+E0007,Omar de Jesús,Cervantes,Masculino,Servicios Administrativos,Tesoraria,Planta,Supervisor,Directivo,10000,0.04
+E0022,María Magdalena Dominic,Flores,Femenino,Recursos Humanos,Empleo,Planta,Supervisor,Directivo,10000,0.04
+E0196,Ramiro Orlando,García,Masculino,Recursos Humanos,Servicios Alimentarios,Planta,Profesionista,Profesionista,5000,0.04
+E0302,Jorge,Sepúlveda,Masculino,Informática,Operaciones,Eventual,Asistente,Asistente,4000,0.01
+E0234,Omar,Morán,Masculino,Recursos Humanos,Servicios Alimentarios,Planta,Auxiliar,Administrativo,3600,0.02
+E0246,Patricia Magdalena,Tovar,Femenino,Recursos Humanos,Servicios Alimentarios,Sindicalizado,Operario,Obrero,2800,0.025
+E0420,María Angélica,Rubio,Femenino,Informática,Inteligencia ne Negocios,Planta,Profesionista,Profesionista,5000,0.04
+E0424,Nubia Guadalupe,Sifuentes,Femenino,Recursos Humanos,Servicios Alimentarios,Eventual,Operario,Administrativo,2800,0.025
+E0315,Emir Jhafred,Zuñiga,Masculino,Recursos Humanos,Servicios Alimentarios,Planta,Auxiliar,Administrativo,3600,0.02
+E0395,Saúl Bonifacio,Mireles,Masculino,Intendencia,Logistica,Eventual,Auxiliar,Administrativo,3600,0.02
+E0397,Eduardo Daniel,Silva,Masculino,Intendencia,Remodelaciones,Eventual,Auxiliar,Administrativo,3600,0.02
+E0398,Jenny Lisbeth,Balboa,Femenino,Recursos Humanos,Servicios Alimentarios,Eventual,Operario,Administrativo,2800,0.025
+E0399,Angelina,Del Bosque,Femenino,Recursos Humanos,Servicios Alimentarios,Eventual,Auxiliar,Administrativo,3600,0.02
+E0300,Luis Jorge,Facundo,Masculino,Recursos Humanos,Servicios Alimentarios,Planta,Auxiliar,Administrativo,3600,0.02
+E0301,Luz María,Flores,Femenino,Informática,Servicios,Planta,Profesionista,Profesionista,5000,0.04
+E0376,Víctor Adrian,Luévano,Masculino,Recursos Humanos,Servicios Alimentarios,Eventual,Operario,Administrativo,2800,0.025
+E0377,Brenda Guadalupe,Vasquez,Femenino,Servicios Administrativos,Contraloría,Planta,Profesionista,Profesionista,5000,0.04
+E0290,Maria Veronica,Sandino,Femenino,Informática,Mantenimiento,Eventual,Profesionista,Profesionista,5000,0.04
+E0291,Jesús Alejandro,Mota,Masculino,Recursos Humanos,Servicios Alimentarios,Planta,Auxiliar,Administrativo,3600,0.02
+E0456,Sanjuana Yazmín,Ortiz,Femenino,Recursos Humanos,Servicios Alimentarios,Eventual,Operario,Administrativo,2800,0.025
+E0037,Pablo Alberto,Isais,Masculino,Intendencia,Limpieza,Planta,Coordinador,Coordinador,8000,0.02
+E0444,Carlos Francisco,Mirabal,Masculino,Recursos Humanos,Servicios Alimentarios,Eventual,Operario,Administrativo,2800,0.025
+E0446,Rafael,Hernández,Masculino,Recursos Humanos,Servicios Alimentarios,Eventual,Operario,Administrativo,2800,0.025
+E0447,Juan Rolando,Hernandez,Masculino,Recursos Humanos,Servicios Alimentarios,Eventual,Auxiliar,Administrativo,3600,0.02
+E0336,Hugo Ivan,Molina,Masculino,Recursos Humanos,Servicios Alimentarios,Eventual,Auxiliar,Administrativo,3600,0.02
+E0338,Lezly Leticia,Salinas,Femenino,Servicios Administrativos,Tesoraria,Eventual,Auxiliar,Administrativo,3600,0.02

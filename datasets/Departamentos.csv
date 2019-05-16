@@ -1,0 +1,11 @@
+idDepto,Desc Departamento,idFac
+D01,Departamento de Administración,E01
+D02,Departamento de Humanidades,E01
+D03,Departamento de ingeniería aeronautica,E03
+D04,Departamento de sistemas computacionales,E04
+D05,Departamento en computo espacializado,E04
+D06,Departamento Ing Básica,E02
+D08,Departamento Ing Electrica,E02
+D09,Departamento Ing Industrial,E02
+D10,Departamento Ing Militar,E03
+D11,Depertemento Ing Electronica,E02
